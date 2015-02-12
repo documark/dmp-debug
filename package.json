@@ -1,0 +1,28 @@
+{
+  "name": "documark-debug",
+  "version": "0.1.0",
+  "description": "Documark plugin for debugging the build process.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mauvm/documark-debug.git"
+  },
+  "keywords": [
+    "documark",
+    "documark-plugin",
+    "debug",
+    "testing"
+  ],
+  "author": "Maurits van Mastrigt <maurits@nerdieworks.nl>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mauvm/documark-debug/issues"
+  },
+  "homepage": "https://github.com/mauvm/documark-debug",
+  "depedencies": {
+    "documark-cache": "^0.1.0"
+  }
+}
