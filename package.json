@@ -19,7 +19,7 @@
     "url": "https://github.com/mauvm/documark-debug/issues"
   },
   "homepage": "https://github.com/mauvm/documark-debug",
-  "depedencies": {
+  "dependencies": {
     "documark-cache": "^0.2.0"
   }
 }
