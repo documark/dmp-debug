@@ -1,6 +1,6 @@
 # Documark Debug
 
-Plugin for debugging the Documark build process.
+Documark plugin for debugging the build process.
 
 Requires the [`documark-cache`](https://github.com/mauvm/documark-cache) plugin.
 

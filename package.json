@@ -1,11 +1,8 @@
 {
   "name": "documark-debug",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "description": "Documark plugin for debugging the build process.",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/mauvm/documark-debug.git"
@@ -23,6 +20,6 @@
   },
   "homepage": "https://github.com/mauvm/documark-debug",
   "depedencies": {
-    "documark-cache": "^0.1.0"
+    "documark-cache": "^0.2.0"
   }
 }
