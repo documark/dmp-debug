@@ -2,7 +2,7 @@
 
 Documark plugin for debugging the build process.
 
-Requires the [`documark-cache`](https://github.com/mauvm/documark-cache) plugin.
+Uses the [`documark-cache`][documark-cache] plugin.
 
 ### Usage
 
@@ -14,4 +14,6 @@ Requires the [`documark-cache`](https://github.com/mauvm/documark-cache) plugin.
 	debug: true
 	```
 
-This creates the `document.html` and `config.json` files in the Documark cache directory (`./.documark`).
+This creates the `document.html` and `config.json` files in the [cache directory][documark-cache] (`.documark/`).
+
+[documark-cache]: https://www.npmjs.com/package/documark-cache
