@@ -1,6 +1,6 @@
 {
   "name": "documark-debug",
-  "version": "0.2.1",
+  "version": "0.2.2",
   "description": "Documark plugin for debugging the build process.",
   "main": "index.js",
   "repository": {
