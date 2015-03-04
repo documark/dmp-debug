@@ -1,6 +1,6 @@
 var cacheHelper = require('documark-cache');
 
-module.exports = function debug ($, document, cb) {
+module.exports = function dmpDebug ($, document, done) {
 	if (document.config().debug) {
 		document.once('post-compile', function () {
 			var cache  = cacheHelper(document);
@@ -11,5 +11,6 @@ module.exports = function debug ($, document, cb) {
 			config.end(JSON.stringify(document.config(), null, 4));
 		});
 	}
-	cb();
+
+	done();
 };

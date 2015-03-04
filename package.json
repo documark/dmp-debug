@@ -1,11 +1,11 @@
 {
-  "name": "documark-debug",
-  "version": "0.2.2",
+  "name": "dmp-debug",
+  "version": "0.2.3",
   "description": "Documark plugin for debugging the build process.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mauvm/documark-debug.git"
+    "url": "https://github.com/mauvm/dmp-debug.git"
   },
   "keywords": [
     "documark",
@@ -16,9 +16,9 @@
   "author": "Maurits van Mastrigt <maurits@nerdieworks.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mauvm/documark-debug/issues"
+    "url": "https://github.com/mauvm/dmp-debug/issues"
   },
-  "homepage": "https://github.com/mauvm/documark-debug",
+  "homepage": "https://github.com/mauvm/dmp-debug",
   "dependencies": {
     "documark-cache": "^0.2.0"
   }
