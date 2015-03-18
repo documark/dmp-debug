@@ -1,7 +1,7 @@
 # Documark Debug
 
 [![npm version](https://badge.fury.io/js/dmp-debug.svg)](http://badge.fury.io/js/dmp-debug)
-[![dependency status](https://david-dm.org/mauvm/dmp-debug.svg)](https://david-dm.org/mauvm)
+[![dependency status](https://david-dm.org/documark/dmp-debug.svg)](https://david-dm.org/documark/dmp-debug)
 
 > Documark plugin for debugging the build process.
 

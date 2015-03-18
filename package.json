@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "https://github.com/mauvm/dmp-debug.git"
+    "url": "https://github.com/documark/dmp-debug.git"
   },
   "keywords": [
     "documark",
@@ -16,9 +16,9 @@
   "author": "Maurits van Mastrigt <maurits@nerdieworks.nl>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mauvm/dmp-debug/issues"
+    "url": "https://github.com/documark/dmp-debug/issues"
   },
-  "homepage": "https://github.com/mauvm/dmp-debug",
+  "homepage": "https://github.com/documark/dmp-debug",
   "dependencies": {
     "documark-cache": "^0.2.0"
   }
